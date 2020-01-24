@@ -84,7 +84,6 @@ div.search-box{
   border-left: transparent;
 }
 
-<<<<<<< HEAD
 .grid-container {
   margin: 0 auto;
   width: 1010px;
@@ -98,7 +97,6 @@ div.search-box{
   padding: 0px;
 }
 
-=======
 .item-list{
   display: flex;
   justify-content: space-evenly;
@@ -112,4 +110,4 @@ div.search-box{
 .thumbnail{
   margin-right: 7px;
 }
->>>>>>> 5684db344da5c5a0ba6385176cdf97d20a863b22
+
