@@ -19,3 +19,34 @@ body{
 .main-container .logo{
   padding-left: 20px;
 }
+.search-container{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 400px;
+}
+
+.search-container div{
+  display: inline-flex;
+  width: 80px;
+  min-height: 30px;
+  justify-content: center;
+}
+
+.search-bar{
+  width: 90%;
+  min-width: 550px;
+  padding-left: 10px;
+  margin-left: 190px;
+  border: 1px solid rgb(200,200,200);
+}
+
+.search-button{
+  width: 10%;
+  min-width: 50px;
+  padding: 0%;
+  margin:0%;
+  border: 1px solid rgb(200,200,200);
+  border-left: transparent;
+}
+
