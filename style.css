@@ -154,8 +154,7 @@ div.search-box{
   justify-content: space-evenly;
   width: 230px; 
 }
-
-.align-img{.item-list{
+.item-list{
   display: flex;
   justify-content: space-evenly;
   width: 230px; 
@@ -168,6 +167,7 @@ div.search-box{
 .thumbnail{
   margin-right: 7px;
 }
+.thumbnail{
   margin-top: 5px;
 }
 
