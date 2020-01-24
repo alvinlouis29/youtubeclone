@@ -50,3 +50,16 @@ body{
   border-left: transparent;
 }
 
+.grid-container {
+  margin: 0 auto;
+  width: 1010px;
+  display: grid;
+  grid-template-areas:
+    'header header header header header menu'
+    'right right main main main menu'
+    ;
+  
+  background-color:#f9f9f9;
+  padding: 0px;
+}
+
