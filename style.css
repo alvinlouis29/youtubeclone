@@ -5,7 +5,81 @@ body{
   padding-top: 0px;
 
 }
+.item1 { 
+  grid-area: header; 
+  font-size: 20px ; 
+  text-align: left;
+  margin-right: 0px;
+  padding-top: 0px;
+  padding-right: 15px;
+  
+}
 
+.title{
+  padding: 0px; 
+  color: #13153B; 
+  font-size: 20px;
+  text-align: left;
+}
+
+.data{
+  margin-left: 5px;
+}
+
+.dot-sty{
+  margin-top: -11px; 
+  margin-left: 12px;
+}
+
+.poster{
+  margin-top: 5px;
+}
+
+.author-details{
+  margin-left:10px;
+}
+
+.author-name{
+  font-size: 15px; 
+  font-weight: bold; 
+  margin-bottom:25px; 
+  color: #0D0D0D;
+}
+
+.num-sub{
+  color: #6A6075;
+  font-size:13px; 
+  font-weight:normal;
+  margin-left: 5px;
+  margin-top: -7px;
+}
+
+.brief{
+  font-size: 15px;
+  color: #0D0D0D; 
+  text-align: left;
+}
+
+.brief a{
+  text-decoration: none;
+}
+
+.more{
+  font-weight: bold;
+  color: #6A6075;
+  font-size: 13px; 
+  text-align: left;
+}
+
+.comments{
+  font-size: 16px; 
+  margin-top: -2px; 
+  margin-right: 10px;
+}
+
+.underline{
+  margin-top: -65px
+}
 .main-container{
   display: flex;
   justify-content: space-evenly;
@@ -75,6 +149,32 @@ div.search-box{
   border: 1px solid rgb(200,200,200);
 }
 
+.item-list{
+  display: flex;
+  justify-content: space-evenly;
+  width: 230px; 
+}
+
+.align-img{.item-list{
+  display: flex;
+  justify-content: space-evenly;
+  width: 230px; 
+}
+
+.align-img{
+  margin-top: 5px;
+}
+
+.thumbnail{
+  margin-right: 7px;
+}
+  margin-top: 5px;
+}
+
+.thumbnail{
+  margin-right: 7px;
+}
+
 .search-button{
   width: 10%;
   min-width: 50px;
@@ -84,7 +184,6 @@ div.search-box{
   border-left: transparent;
 }
 
-<<<<<<< HEAD
 .grid-container {
   margin: 0 auto;
   width: 1010px;
@@ -98,18 +197,4 @@ div.search-box{
   padding: 0px;
 }
 
-=======
-.item-list{
-  display: flex;
-  justify-content: space-evenly;
-  width: 230px; 
-}
 
-.align-img{
-  margin-top: 5px;
-}
-
-.thumbnail{
-  margin-right: 7px;
-}
->>>>>>> 5684db344da5c5a0ba6385176cdf97d20a863b22
