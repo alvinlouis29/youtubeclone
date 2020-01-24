@@ -243,3 +243,20 @@ div.search-box{
   margin-top: -5px;
 
 }
+
+.description{
+  width: 200px;
+  font-size: 15px;
+  text-align: left;
+  margin-top: -15px;
+}
+
+.top-text{
+font-weight: bold;
+font-size: 14px;
+}
+
+.bottom-text{
+color: #7E7B76;
+font-size: 12px
+}
