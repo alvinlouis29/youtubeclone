@@ -210,3 +210,36 @@ div.search-box{
 .thumbnail{
   margin-right: 7px;
 }
+
+.top-grid{
+  display: flex;
+  
+}
+
+.top-grid > div:nth-child(2){
+  margin-left: auto;
+  padding: 0px;
+}
+
+
+.autoplay{
+  display: flex;
+  padding-left: 10px;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.next{
+  font-size: 17px;
+}
+
+.auto{
+  font-size: 13px;
+  margin: 0 5px 0 5px;
+  float: right;
+}
+
+.pic{
+  margin-top: -5px;
+
+}
